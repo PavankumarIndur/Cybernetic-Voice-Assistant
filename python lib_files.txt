@@ -1,0 +1,21 @@
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyaudio
+pip install playsound
+pip install random2
+pip install datetime
+pip install wikipedia
+pip install pywhatkit
+pip install pywhatkit
+pip install os-sys
+pip install times
+pip install subprocess.run
+pip install winshell
+pip install ecapture
+pip install twilio
+pip install clients
+pip install gTTS
+pip install jsons
+pip install requests 
+pip install pyjokes
+
